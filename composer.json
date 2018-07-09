@@ -1,4 +1,14 @@
 {
+    "name": "soladiem/google-disk-api",
+    "description": "An example of working with the Google Disk API",
+    "version": "1.0.3",
+    "keywords": ["google drive", "api", "soladiem"],
+    "authors": [
+        {
+            "name": "Denis Sitko",
+            "email": "sitko.dv@gmail.com"
+        }
+    ],    
     "require": {
         "google/apiclient": "2.0"
     }
